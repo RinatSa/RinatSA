@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 
 * * *
 
-## Summary:
-
-I want to be a React developer
-
-* * *
-
 ## Skills:
 
 <table>
